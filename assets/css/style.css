@@ -1,5 +1,8 @@
+body {
+	background: url("http://www.pptbackgrounds.org/uploads/elegant-grey-illumination-background-presentations-powerpoint-backgrounds.jpg");
+}
+
 .container-fluid {
-	background-image: url("http://www.pptbackgrounds.org/uploads/elegant-grey-illumination-background-presentations-powerpoint-backgrounds.jpg");
 	top: 0;
 	bottom: 0;
 	color: lightgray;
